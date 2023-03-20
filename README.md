@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Workout Tracker</title>
   </head>
   <body>
     <h1>Workout Tracker</h1>
