@@ -32,7 +32,7 @@ export NUTRITION_API_KEY=&lt;your-nutritionix-api-key&gt;
       </li>
       <li>
         Run the script by running the following command in your terminal:
-        <pre>python workout_tracker.py</pre>
+        <pre>python main.py</pre>
       </li>
     </ol>
     <h2>Usage</h2>
